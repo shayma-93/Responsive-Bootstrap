@@ -64,7 +64,7 @@
   text-align: center;
 }
 
-.btn{
+.btn1{
   width: 160px;
   background-color: #7dc2b3;
   margin-left: 16%;
@@ -75,7 +75,7 @@
 border: none;
 color: #020202;
 }
-.btn:hover{
+.btn1:hover{
   background-color: #7dc2b388;
   color: #020202;
 
